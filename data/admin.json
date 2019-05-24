@@ -1,0 +1,8 @@
+{
+   "id" : "admin1",
+   "identifiant" : "admin",
+   "firstname" : "admin",
+   "lastname" : "adminRod",
+   "password" : "motdepasseadmin",
+   "profit" : "admin"
+}
